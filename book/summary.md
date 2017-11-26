@@ -1,7 +1,9 @@
-# Summary
+# 目录
 
 * [前言](readme.md)
+* [作者介绍](wyj.md)
 
+***
 ## 关于linux的准备知识
 * [章节01：为什么需要linux](linux/01.md)
 * [章节02：linux系统介绍](linux/02.md)
@@ -9,6 +11,7 @@
 * [章节04：linux开发环境搭建](linux/04.md)
 * [章节05：linux高级](linux/05.md)
 
+***
 ## C++参考大全理解笔记
 * [章节01：c语言概述](CppReference/01.md)
 * [章节02：表达式](CppReference/02.md)
@@ -21,6 +24,7 @@
 * [章节09：文件I/O](CppReference/09.md)
 * [章节10：预处理器和注释](CppReference/10.md)
 
+***
 ## 专题
 * [章节01：循环](Subject/01.md)
 * [章节02：数组](Subject/02.md)
@@ -28,6 +32,7 @@
 * [章节04：链表](Subject/04.md)
 * [章节05：文件](Subject/05.md)
 
+***
 ## 高级
 * [章节01：静态库和动态库](Advanced/01.md)
 * [章节02：字节对齐](Advanced/02.md)
@@ -39,6 +44,7 @@
 * [章节08：extern](Advanced/08.md)
 * [章节09：const&volatile](Advanced/09.md)
 
+***
 ## 扩展
 * [章节01：c缺陷与陷阱](Extend/01.md)
 * [章节02：编码规范](Extend/02.md)
