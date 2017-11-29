@@ -46,7 +46,7 @@
 * [章节04：笔试题训练](Extend/04.md)
 * [章节05：机试题训练](Extend/05.md)
 * [章节06：静态库和动态库](Advanced/06.md)
-* [章节07：gdb使用](Advanced/07.md)
-* [章节08：lint使用](Advanced/08.md)
-* [章节09：git&github](Advanced/09.md)
-
+* [章节07：make&makefile](Advanced/07.md)
+* [章节08：gdb使用](Advanced/08.md)
+* [章节09：lint工具使用](Advanced/09.md)
+* [章节10：git&github](Advanced/10.md)
